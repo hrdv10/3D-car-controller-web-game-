@@ -6,9 +6,13 @@
 # Features
 
 Dynamic Track Generation: The track is generated dynamically, providing a unique experience and user experience 
-Realistic Car Physics: The car movement is based on realistic physics, providing an immersive driving experience.
+Realistic 
+Car Physics: The car movement is based on realistic physics, providing an immersive driving experience.
+
 Obstacle Avoidance: Navigate the car through various obstacles strategically placed along the track.
+
 Scoring System: I am currently working on adding  scoring features , iam planning to add scoring based on less time taken by the users to complete terrain with minimum fuel consumption 
+
 Responsive Controls: Control the car with intuitive keyboard controls, providing a seamless gaming experience.
 
 
