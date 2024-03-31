@@ -1,10 +1,10 @@
-#  car controller 
-
 #  Controller Game
-Overview
-Welcome to the Car Controller Game, a simple web-based game created using Standard ML (SML), WebGL, and JavaScript. In this game, you'll be controlling a car through a dynamically generated track. The objective is to navigate the car through the track and avoid obstacles to reach the finish line.
 
-Features
+
+, a simple web-based game created using Standard ML (SML), WebGL, and JavaScript. In this game, you'll be controlling a car through a dynamically generated track. The objective is to navigate the car through the track and avoid obstacles to reach the finish line.
+
+# Features
+
 Dynamic Track Generation: The track is generated dynamically, providing a unique experience and user experience 
 Realistic Car Physics: The car movement is based on realistic physics, providing an immersive driving experience.
 Obstacle Avoidance: Navigate the car through various obstacles strategically placed along the track.
@@ -15,7 +15,8 @@ Responsive Controls: Control the car with intuitive keyboard controls, providing
 
 Start playing and enjoy the game!
 
-Controls
+# Controls
+
 Arrow Keys: Steer the car (Up arrow for acceleration, Down arrow for braking/reverse, Left and Right arrows for steering).
 Technologies Used
 Standard ML (SML): Used for backend logic and track generation algorithms.
@@ -24,7 +25,7 @@ JavaScript: Used for frontend logic and interactivity, including user input hand
 Credits
 ject.
 
-License
+# License
 This project is licensed under the MIT License.
 
 ![image](https://github.com/hrdv10/a-3d-cr-controller-/blob/m/car%20controller.gif)
