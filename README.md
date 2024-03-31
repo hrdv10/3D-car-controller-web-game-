@@ -1,7 +1,7 @@
 #  Controller Game
 
 
-, a simple web-based game created using Standard ML (SML), WebGL, and JavaScript. In this game, you'll be controlling a car through a dynamically generated track. The objective is to navigate the car through the track and avoid obstacles to reach the finish line.
+ a simple web-based game created using Standard ML (SML), WebGL, and JavaScript. In this game, you'll be controlling a car through a dynamically generated track. The objective is to navigate the car through the track and avoid obstacles to reach the finish line.
 
 # Features
 
