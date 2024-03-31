@@ -9,7 +9,7 @@ Dynamic Track Generation: The track is generated dynamically, providing a unique
 Realistic 
 Car Physics: The car movement is based on realistic physics, providing an immersive driving experience.
 
-Obstacle Avoidance: Navigate the car through various obstacles strategically placed along the track.
+collision Avoidance: Navigate the car through various collisions  strategically placed along the trackin the form large sand rock
 
 Scoring System: I am currently working on adding  scoring features , iam planning to add scoring based on less time taken by the users to complete terrain with minimum fuel consumption 
 
