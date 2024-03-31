@@ -22,10 +22,12 @@ Technologies Used
 Standard ML (SML): Used for backend logic and track generation algorithms.
 WebGL: Utilized for rendering graphics, providing a visually appealing gaming experience.
 JavaScript: Used for frontend logic and interactivity, including user input handling and game state management.
-Credits
-ject.
+
 
 # License
 This project is licensed under the MIT License.
+
+# preview snapshot
+
 
 ![image](https://github.com/hrdv10/a-3d-cr-controller-/blob/m/car%20controller.gif)
