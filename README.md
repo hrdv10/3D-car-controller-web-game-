@@ -11,13 +11,13 @@ Car Physics: The car movement is based on realistic physics, providing an immers
 
 collision Avoidance: Navigate the car through various collisions  strategically placed along the track in the form of  large sand rocks
 
-Scoring System: I am currently working on adding  scoring features , iam planning to add scoring based on less time taken by the users to complete terrain with minimum fuel consumption 
+Scoring System: I am currently working on adding  scoring features , iam planning to add scoring based on less time taken by the users to complete the  terrain with minimum fuel consumption 
 
 Responsive Controls: Control the car with intuitive keyboard controls, providing a seamless gaming experience.
 
 
 
-Start playing and enjoy the game!
+
 
 # Controls
 
